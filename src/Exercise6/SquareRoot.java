@@ -29,7 +29,6 @@ import java.util.Scanner;
 //	Enter a number to calculate square root:
 //		4
 //		Square of 4 is: 2.0
-//
 //		Enter a number to check for division by zero exception:
 //		5
 //		Caught Exception is: java.lang.ArithmeticException: / by zero
