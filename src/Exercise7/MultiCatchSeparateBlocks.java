@@ -23,7 +23,7 @@ public class MultiCatchSeparateBlocks
 		{
 			System.out.println("Exception Caught is: " + ae);
 		}
-		catch (NullPointerException ae)
+		catch (ArrayIndexOutOfBoundsException ae)
 		{
 			System.out.println("Exception Caught is: " + ae);
 		}
